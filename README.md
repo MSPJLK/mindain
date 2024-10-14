@@ -18,10 +18,12 @@
 
 ##### 3주차
 
-벨로그 바로가기<br />
+🔗 블로그 바로가기<br />
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=danggin&slug=TIL-원티드-프리온보딩-1일차-useState-톺아보기)](https://github.com/eungyeole/velog-readme-stats)<br />
 <br />
 <br />
+🔗 피드백 바로가기<br />
+[[3주차] 피드백](https://github.com/MSPJLK/mindain/discussions/1)
 <br />
 <br />
 
